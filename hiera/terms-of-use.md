@@ -1,3 +1,7 @@
+---
+layout: hiera
+title: 利用規約
+---
 <!-- 利用規約のページ。公開先の予定は https://covera-labs.github.io/hiera/terms-of-use.html 。Covera の利用規約から、有料機能と投資助言の条項を外したもの。-->
 
 # 利用規約

@@ -1,3 +1,7 @@
+---
+layout: hiera
+title: サポート
+---
 <!-- App Store Connectの「サポートURL」に登録するページ。公開先の予定は https://covera-labs.github.io/hiera/support.html 。-->
 
 # Hieraサポート

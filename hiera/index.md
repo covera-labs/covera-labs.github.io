@@ -1,3 +1,7 @@
+---
+layout: hiera
+title: Hiera
+---
 # Hiera
 
 親子タスクとWBSで、計画を見渡すタスク管理アプリ。

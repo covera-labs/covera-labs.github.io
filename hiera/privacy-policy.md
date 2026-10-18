@@ -1,3 +1,7 @@
+---
+layout: hiera
+title: プライバシーポリシー
+---
 <!-- App Store Connectの「プライバシーポリシーURL」に登録するページ。公開先の予定は https://covera-labs.github.io/hiera/privacy-policy.html 。-->
 
 # プライバシーポリシー

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title and page.title != "Hiera" %}{{ page.title }} | {% endif %}Hiera</title>
+    <meta name="description" content="親子タスクとWBSで、計画を見渡すタスク管理アプリ">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% unless page.url == "/hiera/" %}<h1><a href="{{ '/hiera/' | relative_url }}">Hiera</a></h1>{% endunless %}
+      {{ content }}
+    </div>
+  </body>
+</html>
