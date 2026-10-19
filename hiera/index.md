@@ -11,5 +11,6 @@ title: Hiera
 - [サポート（よくある質問・お問い合わせ）](support.md)
 - [利用規約](terms-of-use.md)
 - [プライバシーポリシー](privacy-policy.md)
+- [特定商取引法に基づく表記](tokushoho.md)
 
 © 2026 Covera Labs
