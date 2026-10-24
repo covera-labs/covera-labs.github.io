@@ -8,6 +8,4 @@
 - [利用規約](terms-of-use.md)
 - [プライバシーポリシー](privacy-policy.md)
 
-Logos provided by [Logo.dev](https://logo.dev)
-
 © 2026 Covera Labs
